@@ -1,0 +1,15 @@
+body{background-color: #d7dfed}
+#wrapper{width: 600px; margin: auto}
+h1{text-align: center}
+#left, #right{min-height: 500px; float: left; margin-top: 10px}
+#left{width: 30%; background:#eaf4b7}
+#right{width: 70%; background-color: #d6f9d9}
+.block{width: 100%; clear: both,}
+
+#txtMessage, #btnChat{float: left; margin: 2px}
+#txtMessage{width: 70%}
+#btnChat{width: 25%;}
+#title{background-color: #ccf900; text-align: center; padding: 5px}
+
+.hoten{color: red; font-weight: bold}
+#dsMsg{height: 450px; overflow: scroll; clear: both}
